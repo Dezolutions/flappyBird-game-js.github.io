@@ -22,7 +22,6 @@ bg.src = "./img/bg.png";
 fg.src = "./img/fg.png";
 pipeUp.src = "./img/pipeNorth.png";
 pipeDown.src = "./img/pipeSouth.png";
-bg.width = 100;
 let gap = 100;
 let score = 0;
 
